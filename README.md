@@ -56,44 +56,16 @@ fetch('/users.json')
     console.log('parsed json', json)
   }).catch(function(ex) {
     console.log('parsing failed', ex)
-  })
+  
 ```
 
-- [x] 2131313
-
-- [x] 1321321
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 12313131
-
-- [ ] asasasas
-
-  
 
 
 
 
 
-[]: http://www.baidu.com
 
-![](C:\Users\hp\Pictures\壁纸\1%2Fassets%2Fimg%2Fpages%2Fgame%2F7TZM85O9OVKP1497479820368.jpg)
+![好难](C:\Users\hp\Pictures\壁纸\1%2Fassets%2Fimg%2Fpages%2Fgame%2F7TZM85O9OVKP1497479820368.jpg)
 
 ------
 
@@ -107,3 +79,4 @@ fetch('/users.json')
 
 
 
+![六带奶](C:\Users\hp\Pictures\壁纸\柳岩\6402c1af32683cd0234b75fec422dc94.jpg)
